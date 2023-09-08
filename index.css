@@ -10,6 +10,10 @@
 body{
     background-color: #79E0EE;
 }
+h1{
+  margin-top: 200px;
+  margin-left: 590px;
+}
 .wrapper{
     width: 650px;
     background-color: #98EECC;
